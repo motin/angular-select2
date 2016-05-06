@@ -1,8 +1,8 @@
 {
   "name": "angular-select2",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "description": "Select2 directive for Angular.js",
-  "main": "index.js",
+  "main": "dist/angular-select2.js",
   "directories": {
     "test": "test"
   },
